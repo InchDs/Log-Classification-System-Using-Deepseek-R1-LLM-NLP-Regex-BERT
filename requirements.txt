@@ -1,0 +1,5 @@
+pandas
+sentence-transformers
+joblib
+python-dotenv
+groq
